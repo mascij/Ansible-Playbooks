@@ -21,7 +21,7 @@ Populate the following variables with the data from you environment:
 ![demo](https://raw.githubusercontent.com/mascij/hypergrid-ansible-playbook/master/hypercloud-ansible.gif)
 
 
-```
+```shell
 ---
 - hosts: localhost
   vars:
